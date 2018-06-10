@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\InventoryExample\Assets\Scripts\Inventory\Editor\CreateInventoryItem.cs">
+    <Files>
+      <File FileName="..\InventoryExample\Assets\Scripts\Inventory\Inventory.cs" Line="9" Column="1" />
+      <File FileName="..\InventoryExample\Assets\Scripts\Inventory\InventoryItem.cs" Line="8" Column="28" />
+      <File FileName="..\InventoryExample\Assets\Scripts\Inventory\PickableItem.cs" Line="6" Column="27" />
+      <File FileName="..\InventoryExample\Assets\Scripts\Inventory\DummyRemove.cs" Line="6" Column="22" />
+      <File FileName="..\InventoryExample\Assets\Scripts\Inventory\Editor\CreateInventoryItem.cs" Line="11" Column="77" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
